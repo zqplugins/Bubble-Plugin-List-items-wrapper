@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)",
+        "1": "productivity",
+        "2": "technical"
+    },
+    "description": "This plugin has been recently acquired by Zeroqode - please bear with us while we review the code and make improvements/fixes where necessary.\n\nWraps each item of a list with the prefix and suffix you write.\nThis one is client side, so it's much faster (instant) and does not uses your app's capacity.\n\nTo receive special offers and important updates please visit: https://zeroqo.de/updates\n\n🔔 Get our 15 Top Plugins Bundle with 15 most popular plugins for only 20$/month.\nPlugins included in the Bundle:\n\n- Bubble Page to PDF converter\n- Stripe Marketplace Express\n- Air Calendar (Full Calendar 5.9.0)\n- AWS File uploader - Any size\n- Advanced Rich Text Editor\n- Mapbox Map\n- Phone Input Number with Formatting\n- Advanced Multi Uploader\n- Video Player\n- Dynamic Height & Width of Elements\n- Audio Recorder\n- Repeating Group to CSV\n- Print Pro\n- Advanced Audio Player\n- Easy File Downloader\n\nGet it here: https://zeroqode.com/bundle\n\nDEMO & DOCUMENTATION\nhttps://zeroqode.com/plugin/list-items-wrapper-plugin-for-bubble-1712921744400x156470660484647070\n\nNEED HELP BUILDING A CUSTOM APPLICATION?\nhttps://zeroqode.com\n\nSUPERCHARGE YOUR APP WITH ZEROQODE PLUGINS\nhttps://zeroqode.com/plugins\n\nQUESTIONS OR NEED HELP?\nhttps://forum.zeroqode.com ",
+    "image": "//s3.amazonaws.com/appforest_uf/f1590201317798x389374559053842700/factory-arm.png",
+    "license": "open_source",
+    "link": "https://zeroqode.com/plugins",
+    "name": "List items wrapper"
+}

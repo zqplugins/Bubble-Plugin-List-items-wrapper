@@ -1,0 +1,32 @@
+{
+    "caption": "Wrap items of a list with",
+    "fields": {
+        "AAF": {
+            "caption": "List to be wrapped",
+            "doc": "Pass a list here. Can be any type, however it will be converted to text type. ",
+            "editor": "DynamicValue",
+            "is_list": true,
+            "name": "list_to_be_wrapped",
+            "rank": 0,
+            "value": "_any_thing"
+        },
+        "AAG": {
+            "caption": "Prefix",
+            "doc": "Optional.",
+            "editor": "DynamicValue",
+            "name": "prefix",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "AAH": {
+            "caption": "Suffix",
+            "doc": "Optional.",
+            "editor": "DynamicValue",
+            "name": "suffix",
+            "optional": true,
+            "rank": 2,
+            "value": "text"
+        }
+    }
+}
