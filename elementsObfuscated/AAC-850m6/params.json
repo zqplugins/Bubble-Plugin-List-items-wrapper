@@ -1,0 +1,21 @@
+{
+    "add_is_visible": false,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 16,
+        "width": 16
+    },
+    "display": "List wrapper",
+    "icon": "ion-android-list",
+    "states": {
+        "AAD": {
+            "caption": "List with wrapped items",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "is_list": true,
+            "name": "list_with_wrapped_items",
+            "value": "text"
+        }
+    }
+}
